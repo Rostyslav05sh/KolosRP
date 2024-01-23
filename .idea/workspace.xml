@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with image background" />
+    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background">
+      <change afterPath="$PROJECT_DIR$/video/FILE 2024-01-23 20:19:47.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +98,7 @@
       <workItem from="1706027646053" duration="105000" />
       <workItem from="1706027753547" duration="1357000" />
       <workItem from="1706030040115" duration="1425000" />
+      <workItem from="1706033980897" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="with video background">
       <option name="closed" value="true" />
@@ -198,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706031094119</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706033343554</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706033343554</updated>
+    </task>
+    <task id="LOCAL-00015" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706033498205</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706033498205</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,8 +228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="with video background" />
     <MESSAGE value="with image background" />
-    <option name="LAST_COMMIT_MESSAGE" value="with image background" />
+    <MESSAGE value="with video background" />
+    <option name="LAST_COMMIT_MESSAGE" value="with video background" />
   </component>
 </project>
