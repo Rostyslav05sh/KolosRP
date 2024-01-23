@@ -5,10 +5,6 @@ html {
 body {
     margin: 0;
     background-color: black;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color: #FFFFFF;
 }
 
 header {
@@ -18,13 +14,14 @@ header {
     justify-content: space-between;
     padding: 1vh 0 1vh 0;
     top: 0;
+    position: relative;
 }
 
-    header .logo a img {
-        width: 7vw;
-        height: 10vh;
-        margin-left: 4vw;
-    }
+header .logo a img {
+    width: 7vw;
+    height: 10vh;
+    margin-left: 4vw;
+}
 
 nav {
     display: flex;
@@ -68,6 +65,7 @@ main {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    position: relative;
 }
 
 .mainWelcome {
@@ -152,16 +150,15 @@ hr {
     transition: 0.4s;
 }
 
-footer p {
-    color: white;
-}
-
-.backgroundPhoto {
-    width: 100vw;
-    height: 100vh;
-}
-
-.backgroundPhoto img {
+.video video {
     width: 100vw;
     position: fixed;
+}
+
+footer {
+    position: absolute;
+}
+
+footer p {
+    color: white;
 }
