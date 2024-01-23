@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kolos.RP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/seconPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/9kA5.mp4" afterDir="false" />
-    </list>
+    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,8 +66,17 @@
       <workItem from="1704724791112" duration="3000" />
       <workItem from="1704725647837" duration="210000" />
       <workItem from="1704726983109" duration="42000" />
-      <workItem from="1706017353192" duration="2829000" />
+      <workItem from="1706017353192" duration="3031000" />
     </task>
+    <task id="LOCAL-00001" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706026782231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706026782231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="with video background" />
+    <option name="LAST_COMMIT_MESSAGE" value="with video background" />
   </component>
 </project>
