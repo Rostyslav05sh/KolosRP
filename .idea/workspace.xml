@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background" />
+    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background">
+      <change afterPath="$PROJECT_DIR$/img/photo_2024-01-23 19.13.34.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/seconPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/seconPage.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,17 +28,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "Rostyslav05sh",
-      "reviewState": "NO_REVIEW"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Rostyslav05sh&quot;,
+      &quot;reviewState&quot;: &quot;NO_REVIEW&quot;
     }
   ],
-  "lastFilter": {
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -64,6 +71,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -90,6 +98,8 @@
       <workItem from="1706027149895" duration="165000" />
       <workItem from="1706027561657" duration="82000" />
       <workItem from="1706027646053" duration="105000" />
+      <workItem from="1706027753547" duration="1357000" />
+      <workItem from="1706030040115" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="with video background">
       <option name="closed" value="true" />
@@ -139,7 +149,55 @@
       <option name="project" value="LOCAL" />
       <updated>1706027694118</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706027760493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706027760493</updated>
+    </task>
+    <task id="LOCAL-00008" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706027773416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706027773416</updated>
+    </task>
+    <task id="LOCAL-00009" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706028447246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028447246</updated>
+    </task>
+    <task id="LOCAL-00010" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706028651467</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028651467</updated>
+    </task>
+    <task id="LOCAL-00011" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706028676045</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028676045</updated>
+    </task>
+    <task id="LOCAL-00012" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706028707443</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706028707443</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
