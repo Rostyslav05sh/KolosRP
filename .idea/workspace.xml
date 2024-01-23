@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background" />
+    <list default="true" id="27ec8ab6-4a6f-4d08-96a0-672f2896f477" name="Changes" comment="with video background">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "Rostyslav05sh",
+      "reviewState": "NO_REVIEW"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rostyslav05sh",
+    "reviewState": "NO_REVIEW"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3dade97a-5faf-4335-8230-c2b04beb0b6c" />
+        <option name="url" value="https://github.com/Rostyslav05sh/KolosRP" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -68,6 +92,8 @@
       <workItem from="1704726983109" duration="42000" />
       <workItem from="1706017353192" duration="3031000" />
       <workItem from="1706026925563" duration="214000" />
+      <workItem from="1706027149895" duration="165000" />
+      <workItem from="1706027561657" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="with video background">
       <option name="closed" value="true" />
@@ -93,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706027133359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706027157295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706027157295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="with video background">
+      <option name="closed" value="true" />
+      <created>1706027287740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706027287740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
