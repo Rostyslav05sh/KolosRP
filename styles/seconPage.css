@@ -1,0 +1,140 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    height: 10vh;
+    width: 100vw;
+    justify-content: space-between;
+    padding: 1vh 0 1vh 0;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+
+header .logo a img {
+    width: 7vw;
+    height: 10vh;
+    margin-left: 4vw;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+    margin-right: 4vw;
+    width: 20vw;
+    justify-content: center;
+    border: 1px solid red;
+    background-color: #28040f;
+}
+
+.nav-btn-brg {
+    display: none;
+}
+
+.text-nav {
+    width: 14vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text-nav a {
+    transition: 0.4s;
+    border-bottom: 3px solid transparent;
+}
+.text-nav a p {
+    margin-bottom: 1.8vh;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mainWelcome {
+    width: 70vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.welcome {
+    width: 30vw;
+}
+
+main p {
+    color: white;
+    width: 30vw;
+}
+
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info {
+    width: 100vw;
+    height: 20vh;
+    /*border: 1px solid red;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+hr {
+    margin: 0;
+    border-color: red;
+    width: 93vw;
+}
+
+.rights {
+    padding-left: 5vh;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    width: 20vw;
+    align-items: center;
+}
+
+.numbers .lifecell p {
+    transition: 0.4s;
+    margin-bottom: 0.5vh;
+}
+
+.numbers .kyivstar p {
+    transition: 0.4s;
+    margin-top: 0.5vh;
+}
+
+.tgLink img {
+    width: 4vw;
+    margin-right: 5vh;
+    transition: 0.4s;
+
+}
+
+footer p {
+    color: white;
+}
